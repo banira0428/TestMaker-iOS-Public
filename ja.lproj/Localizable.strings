@@ -1,0 +1,246 @@
+/* (No Comment) */
+"achievement" = "達成率 %d / %d";
+
+/* (No Comment) */
+"add_test" = "+ 新しい問題集の追加";
+
+/* (No Comment) */
+"answer" = "解答";
+
+/* (No Comment) */
+"any" = "任意";
+
+/* (No Comment) */
+"auto" = "選択肢の自動生成";
+
+/* (No Comment) */
+"cancel" = "キャンセル";
+
+/* (No Comment) */
+"category" = "カテゴリ";
+
+/* (No Comment) */
+"close" = "× 閉じる";
+
+/* (No Comment) */
+"color" = "色";
+
+/* (No Comment) */
+"complete" = "完答";
+
+/* (No Comment) */
+"explanation" = "解説";
+
+/* (No Comment) */
+"image" = "画像";
+
+/* (No Comment) */
+"load" = "読み込む";
+
+/* (No Comment) */
+"load_complete" = "記述A";
+
+/* (No Comment) */
+"load_select" = "選択";
+
+/* (No Comment) */
+"load_select_auto" = "選択A";
+
+/* (No Comment) */
+"load_select_complete" = "選択完答";
+
+/* (No Comment) */
+"load_select_complete_auto" = "選択完答A";
+
+/* (No Comment) */
+"load_write" = "記述";
+
+/* (No Comment) */
+"msg_answer_excess" = "解答の数は選択肢の数未満にしてください";
+
+/* (No Comment) */
+"msg_delete_category" = "カテゴリ %@ を削除してもよろしいですか？";
+
+/* (No Comment) */
+"msg_delete_question" = "問題 %@ を削除してもよろしいですか？";
+
+/* (No Comment) */
+"msg_delete_test" = "問題集 %@ を削除してもよろしいですか？";
+
+/* (No Comment) */
+"msg_duplicated" = "答えが重複しています";
+
+/* (No Comment) */
+"msg_exist_category" = "既に同名のカテゴリが存在します";
+
+/* (No Comment) */
+"msg_lack_input" = "未入力の箇所があります";
+
+/* (No Comment) */
+"msg_load_by_paste" = "クリップボードの内容の読み込み";
+
+/* (No Comment) */
+"msg_load_success" = "%@ を読み込みました";
+
+/* (No Comment) */
+"msg_null_category" = "カテゴリを入力してください";
+
+/* (No Comment) */
+"msg_null_paste" = "共有機能で作成したテキストを予めクリップボードにコピーしておいてください。";
+
+/* (No Comment) */
+"msg_null_questions" = "問題を登録してください";
+
+/* (No Comment) */
+"msg_null_title" = "名前を入力してください";
+
+/* (No Comment) */
+"msg_null_wrong" = "間違えた問題がありません";
+
+/* (No Comment) */
+"msg_play_option" = "出題形式の選択";
+
+/* (No Comment) */
+"msg_removed" = "購入済みです";
+
+/* (No Comment) */
+"msg_reset_category" = "カテゴリ設定を取り消しますか？";
+
+/* (No Comment) */
+"msg_retry" = "解き直し";
+
+/* (No Comment) */
+"msg_saved" = "保存しました";
+
+/* (No Comment) */
+"msg_unable_auto" = "問題数不足で自動生成できません";
+
+/* (No Comment) */
+"msg_unable_delete_category" = "選択中のカテゴリを削除することはできません";
+
+/* (No Comment) */
+"no" = "いいえ";
+
+/* (No Comment) */
+"num_answer" = "解答の数";
+
+/* (No Comment) */
+"num_questions" = "問題集数 %d";
+
+/* (No Comment) */
+"num_select" = "選択肢の数";
+
+/* (No Comment) */
+"number" = "No.%d";
+
+/* (No Comment) */
+"ok" = "OK";
+
+/* (No Comment) */
+"only_wrong_question" = "間違えた問題のみ出題";
+
+/* (No Comment) */
+"other" = "他の選択肢";
+
+/* (No Comment) */
+"play_all" = "全て出題";
+
+/* (No Comment) */
+"question" = "問題文";
+
+/* (No Comment) */
+"required" = "必須";
+
+/* (No Comment) */
+"save" = "保存";
+
+/* (No Comment) */
+"select" = "選択";
+
+/* (No Comment) */
+"select_complete" = "選択完答";
+
+/* (No Comment) */
+"share_color" = "色,%d";
+
+/* (No Comment) */
+"share_complete_question" = "記述A,%@,";
+
+/* (No Comment) */
+"share_explanation" = "\n解説,%@";
+
+/* (No Comment) */
+"share_select_auto_question" = "選択A,%1$@,%2$@,%3$@,";
+
+/* (No Comment) */
+"share_select_complete_auto_question" = "選択完答A,%@,";
+
+/* (No Comment) */
+"share_select_complete_question" = "選択完答,%@,";
+
+/* (No Comment) */
+"share_select_question" = "選択,%1$@,%2$@,";
+
+/* (No Comment) */
+"share_short_question" = "記述,%1$@,%2$@";
+
+/* (No Comment) */
+"share_title" = "タイトル,%@
+";
+
+/* (No Comment) */
+"show_answer" = "正解 %@";
+
+/* (No Comment) */
+"show_explanation" = "解説 %@";
+
+/* (No Comment) */
+"show_result" = "正答率 %d / %d";
+
+/* (No Comment) */
+"show_your_answer" = "解答 %@";
+
+/* (No Comment) */
+"title" = "タイトル";
+
+/* (No Comment) */
+"unknown" = "タイトル不明";
+
+/* (No Comment) */
+"value_auto" = "自動生成";
+
+/* (No Comment) */
+"write" = "記述";
+
+/* Localizable.strings
+  TestMaker_2
+
+  Created by 山田敬汰 on 2018/11/13.
+  Copyright © 2018 YamadaKeita. All rights reserved. */
+"yes" = "はい";
+
+"num_questions" = "問題数 %d";
+
+"msg_not_login" = "問題集を投稿するにはログインが必要です";
+"msg_not_login_mypage" = "マイページを利用するにはログインが必要です";
+"msg_confirm_logout" = "ログアウトしますか？";
+
+"title_online" = "タイトル： %@";
+"username_online" = "作者： %@";
+"date_online" = "作成日時： %@";
+"overview_online" = "概要: %@";
+
+"msg_network_error" = "エラーが発生しました";
+"load_complete_order" = "記述B";
+"is_check_order" = "解答順を正誤判定に含める";
+"share_complete_order_question" = "記述B,%@,";
+"reset_achievement" = "達成率をリセットしました";
+"msg_share_test" = "問題集「 %1$@ 」が共有されました。下記のリンクから問題集を受け取ってください\n %2$@";
+"title_dialog_share" = "共有方法の選択";
+"action_share_upload" = "アップロードしてリンクを共有";
+"action_share_csv" = "テキスト形式に変換して共有";
+"uploading" = "問題集をアップロード中";
+"downloading" = "問題集をダウンロード中";
+"msg_test_not_exist" = "問題集が見つかりません";
+
+

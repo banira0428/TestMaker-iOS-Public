@@ -1,0 +1,246 @@
+
+/* Class = "UIButton"; normalTitle = "インポート"; ObjectID = "0yk-Rp-DVz"; */
+"0yk-Rp-DVz.normalTitle" = "インポート";
+
+/* Class = "UITextField"; placeholder = "解答"; ObjectID = "2Fz-iv-QEY"; */
+"2Fz-iv-QEY.placeholder" = "解答";
+
+/* Class = "UIButton"; normalTitle = "編集"; ObjectID = "2qU-62-AuW"; */
+"2qU-62-AuW.normalTitle" = "編集";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "3dc-DF-OdV"; */
+"3dc-DF-OdV.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "select5"; ObjectID = "5XS-AB-8rE"; */
+"5XS-AB-8rE.normalTitle" = "select5";
+
+/* Class = "UIButton"; normalTitle = "select3"; ObjectID = "62U-0h-OFO"; */
+"62U-0h-OFO.normalTitle" = "select3";
+
+/* Class = "UIButton"; normalTitle = "select1"; ObjectID = "69U-hv-Ytb"; */
+"69U-hv-Ytb.normalTitle" = "select1";
+
+/* Class = "UITextField"; placeholder = "解答"; ObjectID = "6Py-b4-DHj"; */
+"6Py-b4-DHj.placeholder" = "解答";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6qS-sU-vEL"; */
+"6qS-sU-vEL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "不正解"; ObjectID = "9O0-cL-95j"; */
+"9O0-cL-95j.normalTitle" = "不正解";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "9gy-Bi-hAu"; */
+"9gy-Bi-hAu.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "問題集の名前"; ObjectID = "Aoj-Ps-ItI"; */
+"Aoj-Ps-ItI.placeholder" = "問題集の名前";
+
+/* Class = "UIViewController"; title = "Top"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Top";
+
+/* Class = "UIButton"; normalTitle = "+ 新しい問題の追加"; ObjectID = "D9f-7N-8jQ"; */
+"D9f-7N-8jQ.normalTitle" = "+ 新しい問題の追加";
+
+/* Class = "UINavigationItem"; title = "暗記メーカー"; ObjectID = "DIH-FT-tV6"; */
+"DIH-FT-tV6.title" = "暗記メーカー";
+
+/* Class = "UINavigationItem"; title = "暗記メーカー"; ObjectID = "DMS-5w-ADq"; */
+"DMS-5w-ADq.title" = "暗記メーカー";
+
+/* Class = "UINavigationItem"; title = "編集"; ObjectID = "Dit-pc-OI5"; */
+"Dit-pc-OI5.title" = "編集";
+
+/* Class = "UITextField"; placeholder = "解答"; ObjectID = "EKT-hd-B6C"; */
+"EKT-hd-B6C.placeholder" = "解答";
+
+/* Class = "UIButton"; normalTitle = "+ 問題集の追加"; ObjectID = "Ew8-rz-kXG"; */
+"Ew8-rz-kXG.normalTitle" = "+ 問題集の追加";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FYb-Qt-wRh"; */
+"FYb-Qt-wRh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "確認"; ObjectID = "G1M-kg-7fu"; */
+"G1M-kg-7fu.normalTitle" = "確認";
+
+/* Class = "UIButton"; normalTitle = "追加して保存"; ObjectID = "GDT-Vc-l7Y"; */
+"GDT-Vc-l7Y.normalTitle" = "追加して保存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GMJ-UI-iyf"; */
+"GMJ-UI-iyf.text" = "Label";
+
+/* Class = "UILabel"; text = "正答率 20 / 30"; ObjectID = "GRQ-ie-LiW"; */
+"GRQ-ie-LiW.text" = "正答率 20 / 30";
+
+/* Class = "UIButton"; normalTitle = "ライセンス"; ObjectID = "GoB-Zv-7LF"; */
+"GoB-Zv-7LF.normalTitle" = "ライセンス";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I5c-LO-RAX"; */
+"I5c-LO-RAX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Topに戻る"; ObjectID = "IWh-Rb-HE1"; */
+"IWh-Rb-HE1.normalTitle" = "Topに戻る";
+
+/* Class = "UITextField"; placeholder = "新しいカテゴリ"; ObjectID = "Itd-rz-1sU"; */
+"Itd-rz-1sU.placeholder" = "新しいカテゴリ";
+
+/* Class = "UIButton"; normalTitle = "設定"; ObjectID = "IuJ-gf-oQZ"; */
+"IuJ-gf-oQZ.normalTitle" = "設定";
+
+/* Class = "UIButton"; normalTitle = "削除"; ObjectID = "JHJ-3t-fib"; */
+"JHJ-3t-fib.normalTitle" = "削除";
+
+/* Class = "UIButton"; normalTitle = "select2"; ObjectID = "LbX-NF-OeQ"; */
+"LbX-NF-OeQ.normalTitle" = "select2";
+
+/* Class = "UINavigationItem"; title = "解答"; ObjectID = "LtD-9k-Bk1"; */
+"LtD-9k-Bk1.title" = "解答";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lvy-Qh-fT6"; */
+"Lvy-Qh-fT6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MGF-LF-gcs"; */
+"MGF-LF-gcs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "NgW-JX-DU5"; */
+"NgW-JX-DU5.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NjR-BK-tIF"; */
+"NjR-BK-tIF.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "レビューする"; ObjectID = "Ns4-Qy-FCS"; */
+"Ns4-Qy-FCS.normalTitle" = "レビューする";
+
+/* Class = "UILabel"; text = "問題文と解答の入れ替え"; ObjectID = "PSw-Pa-Zvb"; */
+"PSw-Pa-Zvb.text" = "問題文と解答の入れ替え";
+
+/* Class = "UIButton"; accessibilityLabel = "Border"; ObjectID = "PfH-bT-Ndx"; */
+"PfH-bT-Ndx.accessibilityLabel" = "Border";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PrT-yF-Ouh"; */
+"PrT-yF-Ouh.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QRl-Ig-OFc"; */
+"QRl-Ig-OFc.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "SF5-ZJ-91P"; */
+"SF5-ZJ-91P.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ST6-kz-Olc"; */
+"ST6-kz-Olc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "THT-gm-Sqo"; */
+"THT-gm-Sqo.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "結果"; ObjectID = "TIc-Az-xs5"; */
+"TIc-Az-xs5.title" = "結果";
+
+/* Class = "UIButton"; normalTitle = "上書き保存"; ObjectID = "TwC-AR-bvI"; */
+"TwC-AR-bvI.normalTitle" = "上書き保存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UEQ-ZO-Ld2"; */
+"UEQ-ZO-Ld2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VSK-So-FhK"; */
+"VSK-So-FhK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "解き直す"; ObjectID = "WN4-f6-ryh"; */
+"WN4-f6-ryh.normalTitle" = "解き直す";
+
+/* Class = "UILabel"; text = "カテゴリ設定"; ObjectID = "WQT-78-CFY"; */
+"WQT-78-CFY.text" = "カテゴリ設定";
+
+/* Class = "UINavigationController"; title = "Title"; ObjectID = "XrT-ui-20g"; */
+"XrT-ui-20g.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "YW0-YY-tjl"; */
+"YW0-YY-tjl.normalTitle" = "OK";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "coE-7C-OWB"; */
+"coE-7C-OWB.title" = "戻る";
+
+/* Class = "UILabel"; text = "効果音"; ObjectID = "dbu-4t-yV9"; */
+"dbu-4t-yV9.text" = "効果音";
+
+/* Class = "UIButton"; normalTitle = "コピペで読み込む"; ObjectID = "eGz-k6-2Xh"; */
+"eGz-k6-2Xh.normalTitle" = "コピペで読み込む";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "eJX-Xz-vpF"; */
+"eJX-Xz-vpF.title" = "戻る";
+
+/* Class = "UINavigationItem"; title = "編集"; ObjectID = "ecO-sp-rbM"; */
+"ecO-sp-rbM.title" = "編集";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "exM-63-0dn"; */
+"exM-63-0dn.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "新しい問題集の名前"; ObjectID = "fWe-Ta-XvX"; */
+"fWe-Ta-XvX.placeholder" = "新しい問題集の名前";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gS9-ea-Mib"; */
+"gS9-ea-Mib.text" = "Label";
+
+/* Class = "UIViewController"; title = "ライセンス"; ObjectID = "gX1-o2-qo0"; */
+"gX1-o2-qo0.title" = "ライセンス";
+
+/* Class = "UIButton"; normalTitle = "カテゴリ"; ObjectID = "hlZ-MZ-6ir"; */
+"hlZ-MZ-6ir.normalTitle" = "カテゴリ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "huf-2L-6JK"; */
+"huf-2L-6JK.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "select6"; ObjectID = "izQ-Wd-hjb"; */
+"izQ-Wd-hjb.normalTitle" = "select6";
+
+/* Class = "UITextField"; placeholder = "解答"; ObjectID = "jIe-Nb-Pkf"; */
+"jIe-Nb-Pkf.placeholder" = "解答";
+
+/* Class = "UITextField"; placeholder = "解答"; ObjectID = "jnH-RP-MuU"; */
+"jnH-RP-MuU.placeholder" = "解答";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "kIq-zR-RLd"; */
+"kIq-zR-RLd.title" = "戻る";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nmq-nR-v1m"; */
+"nmq-nR-v1m.text" = "Label";
+
+/* Class = "UIViewController"; title = "Edit"; ObjectID = "oTD-Cz-Bbh"; */
+"oTD-Cz-Bbh.title" = "Edit";
+
+/* Class = "UILabel"; text = "自己採点モード"; ObjectID = "oeB-MB-xkc"; */
+"oeB-MB-xkc.text" = "自己採点モード";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q0G-9R-3S1"; */
+"q0G-9R-3S1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "次へ"; ObjectID = "qbp-1t-ptz"; */
+"qbp-1t-ptz.normalTitle" = "次へ";
+
+/* Class = "UIButton"; normalTitle = "カテゴリ"; ObjectID = "rmm-ns-dvm"; */
+"rmm-ns-dvm.normalTitle" = "カテゴリ";
+
+/* Class = "UINavigationItem"; title = "設定"; ObjectID = "sBx-h5-O75"; */
+"sBx-h5-O75.title" = "設定";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tq2-2k-r2i"; */
+"tq2-2k-r2i.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "問題集の設定"; ObjectID = "uhA-Rv-jgq"; */
+"uhA-Rv-jgq.title" = "問題集の設定";
+
+/* Class = "UIButton"; normalTitle = "select4"; ObjectID = "vda-gz-jFF"; */
+"vda-gz-jFF.normalTitle" = "select4";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "vyx-6n-N4x"; */
+"vyx-6n-N4x.normalTitle" = "OK";
+
+/* Class = "UIViewController"; title = "Categorized"; ObjectID = "wJr-wk-aAd"; */
+"wJr-wk-aAd.title" = "Categorized";
+
+/* Class = "UIBarButtonItem"; title = "問題集の設定"; ObjectID = "wj3-Se-56U"; */
+"wj3-Se-56U.title" = "問題集の設定";
+
+/* Class = "UIButton"; normalTitle = "正解"; ObjectID = "xWd-Ed-6AK"; */
+"xWd-Ed-6AK.normalTitle" = "正解";
+
+/* Class = "UIButton"; normalTitle = "開く"; ObjectID = "ytQ-tl-FCB"; */
+"ytQ-tl-FCB.normalTitle" = "開く";

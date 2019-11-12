@@ -1,0 +1,7 @@
+github "Alamofire/Alamofire"
+github "SwiftyJSON/SwiftyJSON"
+github "SnapKit/SnapKit" ~> 4.0.0
+github "realm/realm-cocoa"
+github "xmartlabs/Eureka" ~> 4.0
+github "EurekaCommunity/ImageRow" ~> 3.0
+

@@ -1,0 +1,107 @@
+/* 
+  Localizable.strings
+  TestMaker_2
+
+  Created by 山田敬汰 on 2018/11/13.
+  Copyright © 2018 YamadaKeita. All rights reserved.
+*/
+
+"yes" = "YES";
+"no" = "NO";
+"achievement" = "%d / %d solved";
+"msg_null_questions" = "please add questions";
+"msg_play_option" = "option";
+"play_all" = "all questions";
+"only_wrong_question" = "only wrong questions";
+"msg_null_wrong" = "wrong is nothing";
+"cancel" = "cancel";
+"msg_delete_test" = "delete %@ ?";
+"share_short_question" = "short problem,%1$@,%2$@";
+"share_select_question" ="selection problem,%1$@,%2$@,";
+"share_select_auto_question" = "selection auto problem,%1$@,%2$@,%3$@,";
+"share_complete_question" = "multiple answers,%@,";
+"share_select_complete_question"= "selection complete problem,%@,";
+"share_select_complete_auto_question" = "selection complete auto problem,%@,";
+"share_explanation" = "\nexplanation,%@";
+"share_title" = "title,%@\n";
+"share_color" = "color,%d";
+"write" = "write";
+"select" = "select";
+"complete" = "complete";
+"select_complete" = "select complete";
+"load_write" = "short problem";
+"load_select" = "selection problem";
+"load_select_auto" = "selection auto problem";
+"load_complete" = "multiple answers";
+"load_select_complete" = "selection complete problem";
+"load_select_complete_auto" = "selection complete auto problem";
+"question" = "question";
+"answer" = "answer";
+"image"="image";
+"explanation"="explanation";
+"required"="required";
+"any"="any";
+"save"="save";
+"other" = "other choice";
+"num_select" = "number choices";
+"auto" = "make choice auto";
+"value_auto" = "auto";
+"num_answer" = "num answers";
+"msg_lack_input" = "input all required place";
+"msg_answer_excess" = "the number of answers is too many ";
+"msg_saved" = "saved";
+"num_questions" = "%d tests";
+"msg_null_title" = "input name";
+"close" = "× close";
+"add_test" = "+ add test";
+"unknown" = "unknown";
+"title" = "title";
+"color" = "color";
+"msg_load_success" = "loaded %@";
+"msg_load_by_paste"= "load by copying and pasting";
+"msg_null_paste" = "copy text shared by others";
+"load" = "load";
+"msg_reset_category" = "cancel category?";
+"category" = "category";
+"msg_delete_question" = "delete %@ ?";
+"msg_unable_auto" = "add more question";
+"show_explanation" = "explanation: %@";
+"show_answer" = "answer: %@";
+"show_your_answer" = "your answer: %@";
+"show_result" = " %d / %d";
+"msg_retry" = "retry";
+"msg_delete_category" = "delete %@ ?";
+"msg_unable_delete_category" = "this category is being selected";
+"msg_null_category" = "input category";
+"msg_exist_category" = "already exist same category";
+"msg_removed" = "already removed";
+"msg_duplicated" = "answers duplicated";
+"ok"="OK";
+"number" = "No.%d";
+"num_questions" = "%d questions";
+"msg_not_login" = "please login if you upload your question";
+"msg_not_login_mypage" = "please login if you see mypage";
+"msg_confirm_logout" = "log out of the system?";
+"title_online" = "title： %@";
+"username_online" = "creator： %@";
+"date_online" = "date： %@";
+"overview_online" = "overview: %@";
+"msg_network_error" = "error occurred． please retry";
+"load_complete_order" = "multiple answers order";
+"is_check_order" = "check answer order";
+"share_complete_order_question" = "multiple answers order,%@,";
+"reset_achievement" = "reset achievement";
+"msg_share_test" = "shared test [ %1$@ ]\n %2$@";
+"title_dialog_share" = "share test";
+"action_share_upload" = "share link";
+"action_share_csv" = "convert to CSV";
+"uploading" = "upload";
+"downloading" = "download";
+"msg_test_not_exist" = "test does not exist";
+
+
+
+
+
+
+
